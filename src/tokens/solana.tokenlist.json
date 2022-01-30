@@ -93814,6 +93814,18 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ABeAtujCSTdWbaBA4SUewdXyo1ERYoroLyt2EPpNiiLk",
+      "symbol": "LT",
+      "name": "lasda",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "extensions": {
+        "website": "https://a.com",
+        "twitter": "https://nijetnjiter.com"
+      }
     }
   ],
   "version": {
