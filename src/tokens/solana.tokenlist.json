@@ -93814,6 +93814,17 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CJGTKSdbAYGyvBbdQbR7y3keYcbGHMezNj3HsqokTy8z",
+      "symbol": "Dimey",
+      "name": "dimi kojn",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJGTKSdbAYGyvBbdQbR7y3keYcbGHMezNj3HsqokTy8z/logo.svg",
+      "extensions": {
+        "website": "https://www.youtube.com/watch?v=pH1mRXHVudw"
+      }
     }
   ],
   "version": {
