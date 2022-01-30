@@ -93814,6 +93814,21 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EvKu6PpV36WmkwnjWaq1nxkNZsVNdnoobPHCEQLhn8DJ",
+      "name": "Ngrok token",
+      "decimals": 1,
+      "symbol": "NGRok",
+      "logoURI": "https://philnash.gallerycdn.vsassets.io/extensions/philn",
+      "extensions": {
+        "website": "https://ngromk.com"
+      },
+      "tags": [
+        "DeFi",
+        "test-b"
+      ]
     }
   ],
   "version": {
