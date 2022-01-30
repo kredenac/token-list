@@ -93814,6 +93814,18 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "rEYV2K3SFr9GUwV4VxFMhTcSGQmyx2LdLPVj7sq5Jsw",
+      "name": "dimi kojn",
+      "decimals": 6,
+      "symbol": "GLHF2",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "extensions": {
+        "website": "https://www.youtube.com/watch?v=pH1mRXHVudwa",
+        "twitter": ""
+      }
     }
   ],
   "version": {
