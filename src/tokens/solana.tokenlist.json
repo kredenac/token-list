@@ -93814,6 +93814,17 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6mNpeg1oy5EYnhWbPma7jq9hoQDCtk9W422X7k7HqWQm",
+      "symbol": "STrimflow",
+      "name": "SFbro",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "extensions": {
+        "website": "https://streamflow.finance"
+      }
     }
   ],
   "version": {
