@@ -93814,6 +93814,17 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "28tVfEKno8sTjhE3tJrWLay1VSaJNPfsWymZYjYhroPA",
+      "symbol": "DIMI",
+      "name": "Dimi token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "extensions": {
+        "website": "https://streamflow.fimamce"
+      }
     }
   ],
   "version": {
