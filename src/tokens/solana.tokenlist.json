@@ -93814,6 +93814,20 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2hNJyDC3qscsUBrQndbDzvwE68dgwdJ3ER1xV1LmiJP6",
+      "symbol": "ANGL",
+      "name": "Angelo token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "tags": [
+        "tokentag"
+      ],
+      "extensions": {
+        "website": "https://thismuchfake.com"
+      }
     }
   ],
   "version": {
