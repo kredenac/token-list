@@ -93814,6 +93814,17 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "94r8EdyXeXqGv3FJ8SDS7dc5xBtbnKv1TqLXzcHFjPiZ",
+      "symbol": "DIMI",
+      "name": "Dimi coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "extensions": {
+        "website": "https://dimi.rs"
+      }
     }
   ],
   "version": {
