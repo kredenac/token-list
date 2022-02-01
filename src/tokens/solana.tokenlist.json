@@ -93814,6 +93814,22 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CvL2PL6Vcs2QMWYvAEf9V8gZiX8RaHbSQ16sU4X1gBKf",
+      "symbol": "hehe",
+      "name": "hehe coin",
+      "decimals": 4,
+      "logoURI": "https://streamflow-dev.netlify.app/static/media/logo.c42",
+      "tags": [
+        "}",
+        ""
+      ],
+      "extensions": {
+        "website": "https://streamflow.finance",
+        "twitter": "https://jitter.com/something"
+      }
     }
   ],
   "version": {
