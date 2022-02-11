@@ -93814,6 +93814,17 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EJyvnNNdu7SaziLa8uFsrU5EfpWf4FxxxX7H8eCLUizu",
+      "symbol": "STRAH",
+      "name": "Strahinja Token MDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "extensions": {
+        "website": "https://strahinja.com"
+      }
     }
   ],
   "version": {
