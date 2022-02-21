@@ -93814,6 +93814,22 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "vNECw9uj9dh2CjXnB6CMVvVcpYKqyoFM7z56KJhLSmy",
+      "symbol": "BOTOK",
+      "name": "BoToken",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "tags": [
+        "test",
+        "fun",
+        "andfunny"
+      ],
+      "extensions": {
+        "website": "https://hello.world"
+      }
     }
   ],
   "version": {
