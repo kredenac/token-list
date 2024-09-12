@@ -93814,6 +93814,20 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8gyah7RTZKUdACQprUQ3Tgf64UqkSaCSBmutUAwYXKVu",
+      "symbol": "asdf",
+      "name": "asdf",
+      "decimals": 1,
+      "tags": [
+        "asdf.asdjoiwef"
+      ],
+      "extensions": {
+        "website": "asdf",
+        "twitter": "asdf"
+      }
     }
   ],
   "version": {
