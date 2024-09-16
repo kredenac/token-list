@@ -1,0 +1,1 @@
+je l samo do ovoga
